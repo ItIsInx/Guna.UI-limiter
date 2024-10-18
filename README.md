@@ -1,3 +1,5 @@
 # Guna.UI Limiter
 
-No more annoying guna.ui dialog!
+## Preview
+
+https://github.com/user-attachments/assets/a54366c4-9901-4767-a2ac-cd52498cf2ee
